@@ -23,3 +23,13 @@ h1 {
     font-style: italic;
     font-weight: 100;
 }
+
+/* Poem */
+.poem .container {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.poem p {
+    white-space: pre-line;
+}
