@@ -1,7 +1,33 @@
 {
+<<<<<<< HEAD
   "devDependencies": {
     "browser-sync": "^2.26.14",
     "html-validate": "^4.7.1"
   },
   "dependencies": {}
+=======
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ida-dar/bootcamp-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ida-dar/bootcamp-git/issues"
+  },
+  "homepage": "https://github.com/ida-dar/bootcamp-git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "html-validate": "^4.7.1"
+  },
+  "dependencies": {}
+>>>>>>> 9e38835a1c137b714ed1b116f79272fe7a0e3015
 }
